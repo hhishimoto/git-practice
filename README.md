@@ -5,4 +5,5 @@ no-fast-forwardブランチで編集
 mainブランチで編集（コンフリクト発生）  
 conflictブランチで編集  
 Github上で更新  
+conflict-remote上で更新（コンフリクト発生）  
 Gitfub上で更新(コンフリクト発生させる)  
